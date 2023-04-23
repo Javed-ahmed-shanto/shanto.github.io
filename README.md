@@ -16,7 +16,7 @@ you can use for pretty much whatever.
 Credits:
 
 	Editior/Recreator:
-	|	Shanto
+		Shanto
 
 	Demo Images:
 		Unsplash (unsplash.com)
